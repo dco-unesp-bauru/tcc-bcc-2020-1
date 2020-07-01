@@ -1,6 +1,6 @@
-# Mostra de TCC do BCC 2020
+# TCCs do BCC 2020 1º semestre
 
-Realizada anualmente, a Motra de TCCs de BCC tem por objetivo inspirar e
+A publicação dos TCCs de BCC tem por objetivo inspirar e
 apresentar aos alunos, professores, funcionários e a comunidade (em especial as
 empresas e desenvolvedores de software locais) as invoações e realizações
 acadamicas consquistas e contruidas pelos alunos graduandos desta universidade.
