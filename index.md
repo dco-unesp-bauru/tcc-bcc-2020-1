@@ -11,8 +11,8 @@ acadamicas consquistas e contruidas pelos alunos graduandos desta universidade.
 	{% for post in site.posts %}
 	<li>
 	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-	<p>Autor: {{ post.autor }} <br />
-	Orientador: {{ post.orientador }}</p>
+	<p>Autor(a): {{ post.autor }} <br />
+	Orientador(a): {{ post.orientador }}</p>
 	</li>
 	{% endfor %}
 </ul>
